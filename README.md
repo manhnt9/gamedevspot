@@ -2,6 +2,6 @@
 
 Feel free to report and disscuss any issue here.
 
-[Facebook](https://www.facebook.com/groups/gdspot/)
+[Facebook](https://www.facebook.com/gamedevspot/)
 
 [Website](https://gamedevspot.net)
